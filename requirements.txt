@@ -7,3 +7,6 @@ langchain-huggingface>=0.1.0
 streamlit>=1.25.0  
 groq>=0.3.0  
 langchain_groq  
+sentence-transformers>=2.2.0
+sympy>=1.12
+matplotlib>=3.8.0
